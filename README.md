@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Juma
 - 👀 I’m interested in Basketball and Coding
-- 🌱 I’m currently learning [Hmtl,Css,Js]/[Python]
+- 🌱 I’m currently learning [HTML,CSS,JS,Python,Java,Bootspring]
 
 
 <!---
